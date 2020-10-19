@@ -1,6 +1,7 @@
 ![Run unit tests](https://github.com/AndrewKirby2/ci-course/workflows/Run%20unit%20tests/badge.svg)
 ![Run on multiple OS](https://github.com/AndrewKirby2/ci-course/workflows/Run%20on%20multiple%20OS/badge.svg)
 [![codecov](https://codecov.io/gh/AndrewKirby2/ci-course/branch/main/graph/badge.svg?token=6YJXOIE8T2)](undefined)
+[![BCH compliance](https://bettercodehub.com/edge/badge/AndrewKirby2/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
